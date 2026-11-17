@@ -22,3 +22,9 @@ Images credited to @cbpuertobanus, downloaded at the user's request from Instagr
 - https://www.instagram.com/p/DfkdW9RuDfR/
 
 The equipment guide is original editorial content and does not claim the team uses specific products. Amazon controls program approval.
+
+## Season archive
+
+19 Instagram posts, limited to the supplied 8 October 2026 announcement and newer posts. No earlier-season posts are included. Categories: Novedades, Agenda, Entrenamientos, Plantilla and Resultados. A mixed announcement can appear under more than one filter. Past event dates are labeled explicitly. Original downloaded image dimensions are recorded in posts.json.
+
+Edit posts.json, then run node render-gallery.mjs from the project root to regenerate the gallery. No build step is required for hosting.

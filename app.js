@@ -26,9 +26,13 @@ let activeFilter = 'Todas';
 let visibleCount = 6;
 const moreButton = document.querySelector('.gallery-more');
 function renderGallery() {
- const matches = newsCards.filter(card => activeFilter === 'Todas' || card.dataset.category === activeFilter);
+ const matches = newsCards.filter(card => activeFilter === 'Todas' || card.dataset.categories.split('|').includes(activeFilter));
  newsCards.forEach(card => { card.hidden = !matches.slice(0,visibleCount).includes(card); });
  moreButton.hidden = matches.length <= visibleCount;
+ const upcoming = matches.filter(card => card.dataset.eventDate && new Date(card.dataset.eventDate).getTime() > Date.now()).length;
+ const notice = document.querySelector('.agenda-notice');
+ notice.hidden = activeFilter !== 'Agenda';
+ notice.textContent = upcoming ? upcoming + ' convocatoria(s) con fecha futura. Confirma los horarios en los canales del club.' : 'No hay próximos partidos publicados en este archivo. Las convocatorias que ves a continuación ya han pasado.';
  document.querySelector('.gallery-count').textContent = Math.min(visibleCount,matches.length) + ' de ' + matches.length + ' publicaciones';
 }
 document.querySelectorAll('[data-filter]').forEach(button=>button.addEventListener('click',()=>{
@@ -45,3 +49,15 @@ document.querySelectorAll('[data-image]').forEach(button=>button.addEventListene
 }));
 imageDialog.querySelector('.image-close').addEventListener('click',()=>imageDialog.close());
 imageDialog.addEventListener('click',event=>{if(event.target===imageDialog)imageDialog.close();});
+
+function refreshEventStatus() {
+ const now = Date.now();
+ newsCards.forEach(card => {
+  if (!card.dataset.eventDate) return;
+  const date = new Date(card.dataset.eventDate);
+  const label = new Intl.DateTimeFormat('es', {day:'2-digit',month:'short',year:'numeric',hour:'2-digit',minute:'2-digit',timeZone:'Europe/Madrid'}).format(date);
+  card.querySelector('.event-status').textContent = (date.getTime() > now ? 'Próximo partido · ' : 'Convocatoria pasada · ') + label;
+ });
+}
+refreshEventStatus();
+document.addEventListener('visibilitychange', () => { if (!document.hidden) {refreshEventStatus();renderGallery();} });

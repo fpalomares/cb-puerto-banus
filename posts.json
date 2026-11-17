@@ -3,23 +3,30 @@
     "id": "DfxtmCpBXiG",
     "date": "2026-11-15",
     "title": "Mijas Unión Basket 68, CB Puerto Banús 58",
-    "category": "Partidos",
+    "category": "Resultados",
     "summary": "El equipo compitió hasta el final en Mijas. Una jornada para analizar y seguir trabajando.",
     "width": 1350,
     "height": 1688,
     "image": "assets/posts/DfxtmCpBXiG.jpg",
-    "url": "https://www.instagram.com/cbpuertobanus/p/DfxtmCpBXiG/"
+    "url": "https://www.instagram.com/cbpuertobanus/p/DfxtmCpBXiG/",
+    "categories": [
+      "Resultados"
+    ]
   },
   {
     "id": "Dfp8x58R3NQ",
     "date": "2026-11-12",
     "title": "De vuelta a la competición",
-    "category": "Partidos",
+    "category": "Agenda",
     "summary": "La publicación previa al desplazamiento a Mijas, después de dos semanas sin partidos.",
     "width": 3072,
     "height": 4096,
     "image": "assets/posts/Dfp8x58R3NQ.jpg",
-    "url": "https://www.instagram.com/cbpuertobanus/p/Dfp8x58R3NQ/"
+    "url": "https://www.instagram.com/cbpuertobanus/p/Dfp8x58R3NQ/",
+    "categories": [
+      "Agenda"
+    ],
+    "eventDate": "2026-11-15T13:30:00+01:00"
   },
   {
     "id": "DfkdW9RuDfR",
@@ -30,7 +37,10 @@
     "width": 1350,
     "height": 1688,
     "image": "assets/posts/DfkdW9RuDfR.jpg",
-    "url": "https://www.instagram.com/cbpuertobanus/p/DfkdW9RuDfR/"
+    "url": "https://www.instagram.com/cbpuertobanus/p/DfkdW9RuDfR/",
+    "categories": [
+      "Plantilla"
+    ]
   },
   {
     "id": "DfXR0HVOv6m",
@@ -41,29 +51,38 @@
     "width": 1350,
     "height": 1688,
     "image": "assets/posts/DfXR0HVOv6m.jpg",
-    "url": "https://www.instagram.com/cbpuertobanus/p/DfXR0HVOv6m/"
+    "url": "https://www.instagram.com/cbpuertobanus/p/DfXR0HVOv6m/",
+    "categories": [
+      "Plantilla"
+    ]
   },
   {
     "id": "DfNRFE_uUNX",
     "date": "2026-11-01",
     "title": "John Iverson, protagonista de la jornada",
-    "category": "Equipo",
+    "category": "Novedades",
     "summary": "El club recuerda al MVP del partido anterior mientras prepara los siguientes encuentros.",
     "width": 1350,
     "height": 1688,
     "image": "assets/posts/DfNRFE_uUNX.jpg",
-    "url": "https://www.instagram.com/cbpuertobanus/p/DfNRFE_uUNX/"
+    "url": "https://www.instagram.com/cbpuertobanus/p/DfNRFE_uUNX/",
+    "categories": [
+      "Novedades"
+    ]
   },
   {
     "id": "De_po58uVbu",
     "date": "2026-10-27",
     "title": "Una nueva semana de trabajo",
-    "category": "Equipo",
+    "category": "Entrenamientos",
     "summary": "El equipo continúa con sus entrenamientos y prepara los próximos retos de la temporada.",
     "width": 1350,
     "height": 1688,
     "image": "assets/posts/De_po58uVbu.jpg",
-    "url": "https://www.instagram.com/cbpuertobanus/p/De_po58uVbu/"
+    "url": "https://www.instagram.com/cbpuertobanus/p/De_po58uVbu/",
+    "categories": [
+      "Entrenamientos"
+    ]
   },
   {
     "id": "De-BadmO-IC",
@@ -74,7 +93,10 @@
     "width": 1350,
     "height": 1688,
     "image": "assets/posts/De-BadmO-IC.jpg",
-    "url": "https://www.instagram.com/cbpuertobanus/p/De-BadmO-IC/"
+    "url": "https://www.instagram.com/cbpuertobanus/p/De-BadmO-IC/",
+    "categories": [
+      "Plantilla"
+    ]
   },
   {
     "id": "De7g1T3O2m0",
@@ -85,29 +107,40 @@
     "width": 1350,
     "height": 1688,
     "image": "assets/posts/De7g1T3O2m0.jpg",
-    "url": "https://www.instagram.com/cbpuertobanus/p/De7g1T3O2m0/"
+    "url": "https://www.instagram.com/cbpuertobanus/p/De7g1T3O2m0/",
+    "categories": [
+      "Plantilla"
+    ]
   },
   {
     "id": "De2ltiAOuY1",
     "date": "2026-10-23",
     "title": "Segunda victoria de la temporada",
-    "category": "Partidos",
+    "category": "Resultados",
     "summary": "El club celebra una nueva victoria y destaca el trabajo del equipo en la pista.",
     "width": 1350,
     "height": 1688,
     "image": "assets/posts/De2ltiAOuY1.jpg",
-    "url": "https://www.instagram.com/cbpuertobanus/p/De2ltiAOuY1/"
+    "url": "https://www.instagram.com/cbpuertobanus/p/De2ltiAOuY1/",
+    "categories": [
+      "Resultados"
+    ]
   },
   {
     "id": "Dezj9zxunrW",
     "date": "2026-10-22",
-    "title": "Reconocimiento para Ale Lorente",
-    "category": "Equipo",
-    "summary": "El club destaca al MVP del encuentro anterior en la previa del partido en Coín.",
+    "title": "Ale Lorente, MVP, y previa en Coín",
+    "category": "Novedades",
+    "summary": "Reconocimiento a Ale Lorente y convocatoria del partido en Coín para el 23 de octubre a las 20:30.",
     "width": 1350,
     "height": 1688,
     "image": "assets/posts/Dezj9zxunrW.jpg",
-    "url": "https://www.instagram.com/cbpuertobanus/p/Dezj9zxunrW/"
+    "url": "https://www.instagram.com/cbpuertobanus/p/Dezj9zxunrW/",
+    "categories": [
+      "Novedades",
+      "Agenda"
+    ],
+    "eventDate": "2026-10-23T20:30:00+02:00"
   },
   {
     "id": "Dew9_VEO4CD",
@@ -118,7 +151,10 @@
     "width": 1350,
     "height": 1688,
     "image": "assets/posts/Dew9_VEO4CD.jpg",
-    "url": "https://www.instagram.com/cbpuertobanus/p/Dew9_VEO4CD/"
+    "url": "https://www.instagram.com/cbpuertobanus/p/Dew9_VEO4CD/",
+    "categories": [
+      "Plantilla"
+    ]
   },
   {
     "id": "DeuGbaFuQI0",
@@ -129,17 +165,108 @@
     "width": 1350,
     "height": 1688,
     "image": "assets/posts/DeuGbaFuQI0.jpg",
-    "url": "https://www.instagram.com/cbpuertobanus/p/DeuGbaFuQI0/"
+    "url": "https://www.instagram.com/cbpuertobanus/p/DeuGbaFuQI0/",
+    "categories": [
+      "Plantilla"
+    ]
+  },
+  {
+    "id": "Der2pBWuuPs",
+    "date": "2026-10-19",
+    "title": "Ale Lorente vuelve a casa",
+    "category": "Plantilla",
+    "summary": "El pívot regresa al CB Puerto Banús tras su experiencia en el extranjero.",
+    "width": 1350,
+    "height": 1688,
+    "image": "assets/posts/Der2pBWuuPs.jpg",
+    "url": "https://www.instagram.com/cbpuertobanus/p/Der2pBWuuPs/",
+    "categories": [
+      "Plantilla"
+    ]
+  },
+  {
+    "id": "DerM-hfOFBG",
+    "date": "2026-10-19",
+    "title": "Pablo Milán renueva",
+    "category": "Plantilla",
+    "summary": "El escolta continuará defendiendo la camiseta del CB Puerto Banús una temporada más.",
+    "width": 1350,
+    "height": 1688,
+    "image": "assets/posts/DerM-hfOFBG.jpg",
+    "url": "https://www.instagram.com/cbpuertobanus/p/DerM-hfOFBG/",
+    "categories": [
+      "Plantilla"
+    ]
+  },
+  {
+    "id": "Dem6PDDOLIr",
+    "date": "2026-10-17",
+    "title": "CB Puerto Banús 68, Miramar Torremolinos 45",
+    "category": "Resultados",
+    "summary": "Primera victoria de la temporada, en casa ante el Miramar Torremolinos.",
+    "width": 1350,
+    "height": 1688,
+    "image": "assets/posts/Dem6PDDOLIr.jpg",
+    "url": "https://www.instagram.com/cbpuertobanus/p/Dem6PDDOLIr/",
+    "categories": [
+      "Resultados"
+    ]
+  },
+  {
+    "id": "Del135qOPtL",
+    "date": "2026-10-17",
+    "title": "Slava sigue en Banús",
+    "category": "Plantilla",
+    "summary": "El club anuncia la continuidad de Slava para esta temporada.",
+    "width": 1350,
+    "height": 1688,
+    "image": "assets/posts/Del135qOPtL.jpg",
+    "url": "https://www.instagram.com/cbpuertobanus/p/Del135qOPtL/",
+    "categories": [
+      "Plantilla"
+    ]
+  },
+  {
+    "id": "Dej5bLeOe9T",
+    "date": "2026-10-16",
+    "title": "Fran Palomares renueva",
+    "category": "Plantilla",
+    "summary": "Fran Palomares seguirá formando parte del CB Puerto Banús durante la temporada 2026-2027.",
+    "width": 1350,
+    "height": 1688,
+    "image": "assets/posts/Dej5bLeOe9T.jpg",
+    "url": "https://www.instagram.com/cbpuertobanus/p/Dej5bLeOe9T/",
+    "categories": [
+      "Plantilla"
+    ]
+  },
+  {
+    "id": "DehymieudcZ",
+    "date": "2026-10-15",
+    "title": "Estreno en casa ante Miramar Torremolinos",
+    "category": "Agenda",
+    "summary": "Convocatoria para el 17 de octubre a las 20:30 en el Pabellón Sergio Scariolo, San Pedro de Alcántara.",
+    "width": 1350,
+    "height": 1688,
+    "image": "assets/posts/DehymieudcZ.jpg",
+    "url": "https://www.instagram.com/cbpuertobanus/p/DehymieudcZ/",
+    "categories": [
+      "Agenda"
+    ],
+    "eventDate": "2026-10-17T20:30:00+02:00"
   },
   {
     "id": "DePWIQWOXfh",
     "date": "2026-10-08",
     "title": "Arranca la temporada 2026-2027",
-    "category": "Equipo",
+    "category": "Novedades",
     "summary": "El anuncio con el que comenzó un nuevo capítulo para el CB Puerto Banús.",
     "width": 1350,
     "height": 1688,
     "image": "assets/season-2026-2027.jpg",
-    "url": "https://www.instagram.com/p/DePWIQWOXfh/"
+    "url": "https://www.instagram.com/p/DePWIQWOXfh/",
+    "categories": [
+      "Novedades"
+    ]
   }
 ]
