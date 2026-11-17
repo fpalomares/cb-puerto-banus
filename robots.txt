@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fpalomares.github.io/cb-puerto-banus/sitemap.xml
